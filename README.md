@@ -32,6 +32,8 @@ Here are the results from left to right: plot of training history, plot of actua
   <img src="https://user-images.githubusercontent.com/22610163/85932751-7f36d200-b8d7-11ea-9b33-c4888199d5be.png" | width=275>  
 </p>
 
+**[Here is the main python notebook](https://github.com/ahmetozlu/keras-nonlinear-regression/blob/master/keras-nonlinear-regression.ipynb) that explains all of the stuff step by step!**
+
 ## Citation
 If you use this code for your publications, please cite it as:
 
