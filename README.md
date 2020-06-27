@@ -13,7 +13,7 @@ In this study,"[the yacht hydrodynamics data set](http://archive.ics.uci.edu/ml/
 To implement a neural network for regression, it must to be defined the architecture itself. It is used a simple Multilayer Perceptron (MLP) as shown at the figure below to define the architecture.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/85933687-b3fc5680-b8e2-11ea-97e8-c4016f7bdd4a.jpeg">  
+  <img src="https://user-images.githubusercontent.com/22610163/85933687-b3fc5680-b8e2-11ea-97e8-c4016f7bdd4a.jpeg" | width="720">  
 </p>
 
 And, here is the implementation using Keras!
