@@ -4,20 +4,33 @@ This repository focuses training of a neural network for regression prediction u
 
 ## Quick Summary
 
-In this study, we've used "[the yacht hydrodynamics data set](http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics)" as a case study and we've reached 0.99 R-square value which is awesome! The approaches and codes that shared in this tutorial can be adopted for any other regression tasks such as "[computer hardware](http://archive.ics.uci.edu/ml/datasets/Computer+Hardware)", "[energy efficiency](http://archive.ics.uci.edu/ml/datasets/Energy+efficiency)" and more!
+In this study,"[the yacht hydrodynamics data set](http://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics)" was used as a case study and it was reached 0.99 R-square value which is awesome! 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/85932753-8067ff00-b8d7-11ea-9788-a2bfd21427e2.png">  
+  <img src="https://user-images.githubusercontent.com/22610163/85933671-78fa2300-b8e2-11ea-8fb4-eb206d1a3061.png">  
 </p>
+
+To implement a neural network for regression, it must to be defined the architecture itself. It is used a simple Multilayer Perceptron (MLP) as shown at the figure below to define the architecture.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/85932751-7f36d200-b8d7-11ea-9b33-c4888199d5be.png">
+  <img src="https://user-images.githubusercontent.com/22610163/85933687-b3fc5680-b8e2-11ea-97e8-c4016f7bdd4a.jpeg">  
 </p>
+
+And, here is the implementation using Keras!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/85932752-7fcf6880-b8d7-11ea-9d27-cf675ca7e1e1.png">
+  <img src="https://user-images.githubusercontent.com/22610163/85933731-4f8dc700-b8e3-11ea-8166-a9d97702c4de.png">  
 </p>
 
+The approaches and codes that shared in this tutorial can be adopted for any other regression tasks such as "[computer hardware](http://archive.ics.uci.edu/ml/datasets/Computer+Hardware)", "[energy efficiency](http://archive.ics.uci.edu/ml/datasets/Energy+efficiency)" and more!
+
+Here are the results from left to right: plot of training history, plot of actual vs prediction for training set, plot of actual vs prediction for validation set.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22610163/85932753-8067ff00-b8d7-11ea-9788-a2bfd21427e2.png" | width=275>  
+  <img src="https://user-images.githubusercontent.com/22610163/85932752-7fcf6880-b8d7-11ea-9d27-cf675ca7e1e1.png" | width=275>  
+  <img src="https://user-images.githubusercontent.com/22610163/85932751-7f36d200-b8d7-11ea-9b33-c4888199d5be.png" | width=275>  
+</p>
 
 ## Citation
 If you use this code for your publications, please cite it as:
