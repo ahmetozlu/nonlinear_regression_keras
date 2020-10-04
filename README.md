@@ -1,6 +1,6 @@
 # NON-LINEAR REGRESSION WITH KERAS
 
-This repository focuses training of a neural network for regression prediction using "Keras". Please check [this medium post](https://medium.com/analytics-vidhya/non-linear-regression-with-deep-learning-221584ccc8c2?source=---------2------------------) for all of the theoretical and practical details!
+This repository focuses training of a neural network for regression prediction using "Keras". Please check [this medium post](https://medium.com/analytics-vidhya/non-linear-regression-with-deep-learning-221584ccc8c2?source=---------2------------------) for all of the theoretical and practical details! ***Please contact if you need professional projects are based non-linear regression with the super high accuracy.***
 
 ## Quick Summary
 
