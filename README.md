@@ -16,7 +16,7 @@ To implement a neural network for regression, it must to be defined the architec
   <img src="https://user-images.githubusercontent.com/22610163/103465554-d5d10d00-4d4d-11eb-9e32-feb73a09eb2c.png" | width="850">  
 </p>
 
-And, here is the implementation using Keras!
+And, here is the implementation using Keras:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/85933731-4f8dc700-b8e3-11ea-8166-a9d97702c4de.png">  
@@ -26,7 +26,7 @@ The approaches and codes that shared in this tutorial can be adopted for any oth
 
 ## Experimental Results
 
-Here are the results from left to right: plot of training history, plot of actual vs prediction for training set, plot of actual vs prediction for validation set.
+Here are the results from left to right: *plot of training history, plot of actual vs prediction for training set, plot of actual vs prediction for validation set*.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/85932753-8067ff00-b8d7-11ea-9788-a2bfd21427e2.png" | width=275>  
