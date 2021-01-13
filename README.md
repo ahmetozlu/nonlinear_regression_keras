@@ -43,7 +43,7 @@ If you use this code for your publications, please cite it as:
         author = "Ahmet Özlü",
         title  = "Non-linear regression using Keras",
         year   = "2020",
-        url    = "https://github.com/ahmetozlu/keras-nonlinear-regression"
+        url    = "https://github.com/ahmetozlu/nonlinear_regression"
     }
 
 ## Author
